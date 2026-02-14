@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="device-management" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.fairplay.sensor.device.management.DeviceManagementApplication" />
+    <module name="device-management.main" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/microservices/device-management" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
